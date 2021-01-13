@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nemu App</string>
+    <string name="title_penemuan">Penemuan</string>
+    <string name="title_kehilangan">Kehilangan</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_cari">Cari</string>
+    <string name="title_pesan">Pesan</string>
+    <string name="title_pemberitahuan">Pemberitahuan</string>
+</resources>

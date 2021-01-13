@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312936923274",
+    "project_id": "nemuapp-7e76f",
+    "storage_bucket": "nemuapp-7e76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312936923274:android:7eb3de16354e86d66ced73",
+        "android_client_info": {
+          "package_name": "com.erikwibowo.nemuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312936923274-lki9a5ln9tffu5rgqd30oepasb7n19t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnXwP2i3B54jNLmWVJeOmPyKB4Vx8unHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312936923274-lki9a5ln9tffu5rgqd30oepasb7n19t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
